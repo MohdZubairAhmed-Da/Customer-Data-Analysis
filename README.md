@@ -79,9 +79,10 @@ The analysis focuses on answering the following questions:
 - Consider customer payment preferences when planning promotional offers.
 - Compare shopping mall performance to identify areas that may need improvement.
 
-## Screenshots
+## Dashboard Overview
 
-Dashboard Overview : https://github.com/MohdZubairAhmed-Da/Customer-Data-Analysis/blob/main/Customer_Data_Analysis.png
+<img width="1293" height="727" alt="Customer_Data_Analysis" src="https://github.com/user-attachments/assets/7954d3d7-3d87-4a6f-82a2-33dd6c89ba51" />
+
 
 ## Conclusion
 
